@@ -9,3 +9,8 @@ Thanks for some Help @ Christian Anton https://github.com/sa-ChristianAnton
 
 URL of the manufacturer 
 https://kentix.com/de/
+
+SNMP Kentix 
+https://docs.kentix.com/display/MON/SNMP
+
+https://kentix.com/downloads/kb/Integration-SNMP-NMS.pdf
